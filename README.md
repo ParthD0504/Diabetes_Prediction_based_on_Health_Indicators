@@ -10,8 +10,6 @@ This repository contains a complete machine learning pipeline to predict the ons
 * [Models](#models)
 * [Results](#results)
 * [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
 
 ## Installation
 
@@ -102,14 +100,3 @@ Performance metrics and visualizations are provided in each notebook. In our exp
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-Parth Deshmukh — [deshmukh.par@northeastern.edu](mailto:deshmukh.par@northeastern.edu)
-
-Feel free to reach out with questions or feedback!")}
-
